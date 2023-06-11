@@ -1,6 +1,6 @@
 <div align="center">
 
-# *Darkdemon-Extension*
+# *Indianstars-Extension*
 
 > Used to load providers for [Cloudstream](https://github.com/recloudstream/cloudstream)
 
